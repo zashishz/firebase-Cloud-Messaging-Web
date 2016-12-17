@@ -1,0 +1,1 @@
+curl -X POST --header "Authorization: key=A.." --Header "Content-Type: application/json" https://fcm.googleapis.com/fcm/send -d "{\"to\":\"..g-DFj\",\"notification\":{\"body\":\"Yellow\"},\"priority\":\"high\"}"
